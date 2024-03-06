@@ -1,0 +1,7 @@
+.blurred-background {
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.8);
+    /* Ajusta el color de fondo y la opacidad según tus preferencias */
+    padding: 15px;
+    /* Ajusta el espaciado interno según sea necesario */
+}
